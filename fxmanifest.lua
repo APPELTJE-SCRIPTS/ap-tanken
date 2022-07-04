@@ -1,7 +1,7 @@
 
 
-author 'FL45H#5053'
-description 'sn-tanken - een tank script met tankpas'
+author 'Appeltje#5053'
+description 'ap-tanken - een tank script met tankpas'
 
 client_scripts {
 	'config.lua',
